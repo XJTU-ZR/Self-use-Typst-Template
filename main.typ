@@ -33,7 +33,7 @@
 @eqt:1-1, @d1 #lorem(10)
 
 
-#figure(image("fig/cover1.png",width: 8em), caption:"封面") <1>
+#figure(image("cover1.png",width: 8em), caption:"封面") <1>
 
 @fig:1 #lorem(10)
 
